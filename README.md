@@ -1,2 +1,3 @@
 # ddos
-alamak
+git clone
+
